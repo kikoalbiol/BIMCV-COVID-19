@@ -12,6 +12,11 @@ You can download the resize images from  --> http://ceib.bioinfo.cipf.es/covid19
 You can download other resize images --> http://ceib.bioinfo.cipf.es/covid19/resized_padchest_neumo_32.tar.gz
 # UPDATES
 
+**Updates 04/04/2020**
+
+From Alberto Albiol and Kiko Albiol. Some of the images in the https://github.com/BIMCV-CSUSP/BIMCV-COVID-19/tree/master/padchest-covid/balanced-tsv are duplicated. This can be a problem if an image is in train/test or just because can provide over-representation of this image. 
+
+
 **Updates 03/04/2020**
 
 The mirror at Barcelona Supercomputing Center is ready to distribute this dataset. Thanks to Salva, Eva and Paco Garcia
